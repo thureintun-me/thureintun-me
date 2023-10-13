@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**thureintun-me/thureintun-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a coder who loves to write code and read books. Here's a snapshot of me:
 
-Here are some ideas to get you started:
+- 💻 Passionate about coding.
+- 📚 Avid reader.
+- 🌍 Exploring web and mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+
+- 🌱 Constantly improving my skills.
+- 🚀 Working on exciting coding projects.
+- 🤝 Open to collaboration with fellow coders.
+
+Feel free to connect if you'd like to chat about code or share insights. Thanks for visiting!
